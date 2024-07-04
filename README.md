@@ -61,4 +61,4 @@ Ensure Python 3.x and necessary libraries (pandas, matplotlib, seaborn) are inst
 Open and run the notebook using Jupyter or any compatible environment.
 
 # License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MEHRAN-DEV-AI/INDIAN-FOOD-ANALYSIS/blob/main/LICENSE) file for details.
